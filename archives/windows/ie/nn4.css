@@ -1,0 +1,185 @@
+.BodyText
+{
+    FONT-SIZE:68%;
+	font-family:Verdana
+}
+.BodyTxtSm
+{
+    FONT-SIZE:68.75%;
+	font-family:Verdana
+}
+.finePrint{
+	font-family:Verdana
+	font-size: 62.5%
+}
+
+#FastSearch{
+	FONT-FAMILY: verdana,arial,helvetica;
+	font-size: 62.5%
+}
+.leftNavSearch
+	{
+	background-color: #0099FF;
+	}
+
+.Header
+{
+    COLOR: #0099FF;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 17px;
+    FONT-WEIGHT: bold;
+}
+.OListItem
+{
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 112%;
+    FONT-WEIGHT: bold;
+}
+.ImgLink
+{
+	font-family:Verdana
+}
+.HomeTitle
+{
+    COLOR:#009CFF;
+    FONT-SIZE:93%;
+    FONT-WEIGHT:bold;
+    LINE-HEIGHT:30px;
+	font-family:Verdana
+}
+.LeftNavOff
+{
+    BACKGROUND-COLOR:white;
+    BORDER-BOTTOM:white solid 2px;
+    BORDER-LEFT:white solid 2px;
+    BORDER-RIGHT:white solid 2px;
+    BORDER-TOP:white solid 2px;
+    COLOR:black;
+    CURSOR:hand;
+	FONT-FAMILY: verdana,arial,helvetica;
+	FONT-SIZE: 68.75%;
+    FONT-WEIGHT:bold;
+    HEIGHT:24px;
+    LETTER-SPACING:.5pt;
+    LINE-HEIGHT:106.25%;
+    PADDING-TOP:1px;
+    TEXT-DECORATION:none;
+    MARGIN:1px;
+    WIDTH:195px
+}
+.LeftNavOn
+{
+    BACKGROUND-COLOR:white;
+    BORDER-BOTTOM:#99ccff solid 2px;
+    BORDER-LEFT:#003399 solid 2px;
+    BORDER-RIGHT:#99ccff solid 2px;
+    BORDER-TOP:#003399 solid 2px;
+    COLOR:#666666;
+	FONT-FAMILY: verdana,arial,helvetica;
+	FONT-SIZE: 68.75%;
+    FONT-WEIGHT:bold;
+    HEIGHT:24px;
+    LETTER-SPACING:.5pt;
+    LINE-HEIGHT:106.25%;
+    PADDING-TOP:1px;
+    TEXT-DECORATION:none;
+    MARGIN:1px;
+    WIDTH:195px
+}
+.LeftNavChosen
+{
+    BACKGROUND-COLOR:white;
+    BORDER-BOTTOM:#99ccff solid 2px;
+    BORDER-LEFT:#003399 solid 2px;
+    BORDER-RIGHT:#99ccff solid 2px;
+    BORDER-TOP:#003399 solid 2px;
+    COLOR:#000000;
+	FONT-FAMILY: verdana,arial,helvetica;
+	FONT-SIZE: 68.75%;
+    FONT-WEIGHT:bold;
+    HEIGHT:24px;
+    LETTER-SPACING:.5pt;
+    LINE-HEIGHT:106.25%;
+    PADDING-TOP:1px;
+    TEXT-DECORATION:none;
+    MARGIN:1px;
+    WIDTH:195px
+	}
+BODY
+{
+    FONT-FAMILY:Verdana,Arial,Helvetica
+}
+A:hover
+{
+    COLOR:#00319c;
+    TEXT-DECORATION:underline
+}
+A
+{
+    COLOR:#00319c;
+    TEXT-DECORATION:none
+}
+.ArtTable td
+{
+	border-top:#636363 solid 1px;
+	padding-top:2px;
+	padding-bottom:2px;
+	font-size:62%;
+	font-family:Verdana
+}
+.H1
+{
+	font-size:90%;
+	font-weight:bold;
+	font-family:Verdana
+}
+.H2
+{
+	font-size:74%;
+	font-weight:bold;
+	font-family:Verdana
+}
+.H3
+{
+	font-size:62%;
+	font-weight:bold;
+	font-family:Verdana
+}
+IMG.HomeIcon
+{
+    BORDER-BOTTOM:medium none;
+    BORDER-LEFT:medium none;
+    BORDER-RIGHT:medium none;
+    BORDER-TOP:medium none;
+    CURSOR:hand
+}
+A:hover.leftNavLink
+{
+    TEXT-DECORATION:underline
+}
+
+.leftNavLink
+{
+	COLOR:black
+}
+
+/*
+     FILE ARCHIVED ON 06:51:50 Jun 19, 2001 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:19:16 Jan 26, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.771
+  exclusion.robots: 0.026
+  exclusion.robots.policy: 0.011
+  esindex: 0.014
+  cdx.remote: 93.096
+  LoadShardBlock: 911.246 (3)
+  PetaboxLoader3.datanode: 873.863 (4)
+  PetaboxLoader3.resolve: 69.86 (2)
+  load_resource: 87.35
+*/
