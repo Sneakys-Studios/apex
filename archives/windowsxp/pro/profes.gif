@@ -1,0 +1,373 @@
+<!--TOOLBAR_EXEMPT-->
+
+<html>
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.microsoft.com/windowsxp/images/profes.gif","20040327220211","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1080424931");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+<title>The page cannot be found</title>
+<meta name="ROBOTS" content="NOINDEX"/>
+<meta name="KEYWORDS" content=""/>
+<meta name="DESCRIPTION" content=""/>
+<meta name="MS.LOCALE" content="EN-US"/>
+<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1"/>
+<meta name="DTC_TEMPLATE" content="TEMPLATE="/>
+
+		          <link rel="stylesheet" href="/web/20040327220211cs_/http://www.microsoft.com/windowsxp/css.asp?template=EP" type="text/css"/>
+          
+
+     <meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.rsac.org/ratingsv01.html&quot; l comment &quot;RSACi North America Server&quot; by &quot;inet@microsoft.com&quot; r (n 0 s 0 v 0 l 0))"/>
+     <script src="/web/20040327220211js_/http://www.microsoft.com/products/shared/global.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="/web/20040327220211cs_/http://www.microsoft.com/library/toolbar/3.0/css.aspx?c=/windowsxp/inc/shell.config"/>
+<script language="javascript">
+var doImage = doImage;
+var TType = TType;
+
+function mhHover(tbl, idx, cls)
+{
+	var t, d;
+	if (document.getElementById)
+		t = document.getElementById(tbl);
+	else
+		t = document.all(tbl);
+	if (t == null) return;
+	if (t.getElementsByTagName)
+		d = t.getElementsByTagName("TD");
+	else
+		d = t.all.tags("TD");
+	if (d == null) return;
+	if (d.length <= idx) return;
+	d[idx].className = cls;
+}
+
+function setMSResearch() {
+  var time = new Date();
+  if( document.cookie.indexOf( 'msresearch=1 ') == -1 ) {
+    document.cookie = 'msresearch=' + time.getTime() + ':' + escape( document.location) + ':' + escape( document.referrer) + '; path=/; domain=.microsoft.com; ';
+  }
+}
+
+function footerjs(doc)
+{
+	if (doImage == null)
+	{
+		var tt = TType == null ? "PV" : TType;
+		doc.write('<layer visibility="hide"><div style="display:none"><img src="https://web.archive.org/web/20040327220211/http://c.microsoft.com/trans_pixel.asp?source=www&TYPE=' + tt + '&p=windowsxp" width=0 height=0 hspace=0 vspace=0 border=0 /></div></layer>'
+	);
+	}
+
+	if( ( document.cookie.indexOf( 'msresearch=1 ') == -1 ) 
+	 && ( document.cookie.indexOf( 'msresearch=')   != -1 ) ) {
+	  setInterval( "setMSResearch()", 1000 );
+	}
+}
+</script>
+
+<link rel="stylesheet" type="text/css" href="/web/20040327220211cs_/http://www.microsoft.com/library/flyoutmenu/default.css"/>
+
+
+	
+	<script type="text/javascript"><!--
+	
+	sImgDefaultArrow = "/products/shared/images/imgArrwUP.gif";
+	sImgExpandedArrow = "/products/shared/images/imgArrwDwn.gif";
+
+	if (sImgDefaultArrow == ""){
+		sImgDefaultArrow = "/products/shared/images/arrow_default.gif";
+	}
+	if (sImgExpandedArrow == ""){
+		sImgExpandedArrow = "/products/shared/images/arrow_expand.gif";
+	}
+	
+	//-->
+	</script>
+   
+<script type="text/javascript" language="JavaScript" src="/web/20040327220211js_/http://www.microsoft.com/library/toolbar/en-us/404.js"></script>
+</head>
+<body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">	
+
+
+		<div id="msviMasthead" xmlns:utility="http://www.microsoft.com/MSCOM/VisualIdentity/Utility"><table cellpadding="0" cellspacing="0" width="100%" border="0"><tr><td width="100%"><table cellpadding="0" cellspacing="0" width="100%" height="22" border="0"><tr><td id="msviRegionIdGraphic" bgcolor="#FFFFFF"></td><td width="100%" bgcolor="#6487DB"><img src="/web/20040327220211im_/http://www.microsoft.com/library/toolbar/3.0/gradient.aspx?a=FFFFFF&amp;b=6487DB&amp;w=250&amp;h=22&amp;d=ltr&amp;c=neLYoN4v%2bKoJvcOcpwHUWuYiTQg%3d" width="250" height="22" alt="*" title=""/></td></tr></table></td><td id="msviGlobalToolbar" bgcolor="#6487DB" height="22" nowrap="" dir="ltr" align="left"><table cellpadding="0" cellspacing="0" border="0"><tr><td class="gt0" nowrap="nowrap" onmouseover="mhHover('msviGlobalToolbar', 0, 'gt1')" onmouseout="mhHover('msviGlobalToolbar', 0, 'gt0')"><a href="https://web.archive.org/web/20040327220211/http://www.microsoft.com/">Microsoft.com Home</a></td><td class="gtsep">|</td><td class="gt0" nowrap="nowrap" onmouseover="mhHover('msviGlobalToolbar', 2, 'gt1')" onmouseout="mhHover('msviGlobalToolbar', 2, 'gt0')"><a href="/web/20040327220211/http://www.microsoft.com/library/toolbar/3.0/sitemap/en-us.mspx">Site Map</a></td></tr></table></td></tr><tr valign="top"><td width="100%"><table cellpadding="0" cellspacing="0" width="100%" height="42" border="0" style="height: expression(parentElement.offsetHeight)"><tr valign="top"><td id="msviBrandBanner" bgcolor="FFFFFF"><a href="https://web.archive.org/web/20040327220211/http://www.microsoft.com/windowsxp"><img src="/web/20040327220211im_/http://www.microsoft.com/library/toolbar/3.0/images/banners/windowsXP_masthead_ltr.gif" width="225" height="42" alt="Windows XP" title="" border="0"/></a></td><td width="100%" bgcolor="#B6C5EE"><img src="/web/20040327220211im_/http://www.microsoft.com/library/toolbar/3.0/gradient.aspx?a=FFFFFF&amp;b=B6C5EE&amp;w=250&amp;h=42&amp;d=ltr&amp;c=MxJXEmCSRJ7E1H62CeSYp3jSP0Q%3d" width="250" height="42" alt="*" title=""/></td></tr></table></td><td id="msviGlobalSearch" bgcolor="#B6C5EE">Search Microsoft.com for:<br/><form id="msviSearchForm" action="/web/20040327220211/http://www.microsoft.com/library/toolbar/3.0/search.aspx"><input type="hidden" name="View" value="en-us"/><input type="hidden" name="charset" value="iso-8859-1"/><nobr><div style="height: 18px"><input name="qu" id="msviSearchBox" maxlength="255"/><input id="msviGoButton" type="submit" value="Go"/></div></nobr></form></td></tr></table><div id="msviLocalToolbar"><table cellpadding="0" cellspacing="0" width="100%" height="19" border="0"><tr><td nowrap="nowrap" id="msviHomePageLink"><a href="/web/20040327220211/http://www.microsoft.com/windows">Windows Home</a></td><td><span class="ltsep">|</span></td><td class="lt0" nowrap="nowrap" onmouseover="mhHover('msviLocalToolbar', 2, 'lt1')" onmouseout="mhHover('msviLocalToolbar', 2, 'lt0')"><a href="/web/20040327220211/http://www.microsoft.com/windowsxp">Windows XP Home</a></td><td><span class="ltsep">|</span></td><td class="lt0" nowrap="nowrap" onmouseover="mhHover('msviLocalToolbar', 4, 'lt1')" onmouseout="mhHover('msviLocalToolbar', 4, 'lt0')"><a href="/web/20040327220211/http://www.microsoft.com/windowsxp/worldwide.asp">Windows XP Worldwide</a></td><td width="100%"></td></tr></table></div></div>
+		
+	   <script type="text/javascript" language="JavaScript" src="/web/20040327220211js_/http://www.microsoft.com/products/shared/sniff.js"></script>
+
+         <a name="top"></a>
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td bgcolor="#ffffff" height="1"><img src="/web/20040327220211im_/http://www.microsoft.com/products/shared/images/ts.gif" height="1" width="1" alt="*"/></td>
+			</tr>
+		</table>
+          <table cellpadding="0" cellspacing="0" border="0" width="100%">
+               <tr valign="top">
+                    <td valign="top">
+                         <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                              <tr valign="top">
+                                   <td width="178" valign="top" id="donotprint">
+
+										<table cellpadding="0" cellspacing="0" border="0" width="100%">
+										    <tr>
+										         <td>
+										         
+<table class="flyoutMenu" menudata="/windowsxp/inc/MnpXmlDataGen.asp?subroot=404.asp" width="180" cellpadding="2" cellspacing="0" border="0">
+	<tr>
+		<td>
+
+			<table width="175" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+				
+					<td class="flyoutLink" handle="1000"><a href="/web/20040327220211/http://www.microsoft.com/windowsxp/default.asp">Windows XP</a></td>
+				
+				</tr>
+			</table>
+
+			<table width="175" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+				
+					<td class="flyoutLink"><a href="/web/20040327220211/http://www.microsoft.com/windowsxp/evaluation/default.asp">Product Information</a></td>
+				
+				</tr>
+			</table>
+
+			<table width="175" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+				
+					<td class="flyoutLink"><a href="/web/20040327220211/http://www.microsoft.com/windowsxp/howtobuy/default.asp">How to Buy</a></td>
+				
+				</tr>
+			</table>
+
+			<table width="175" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+				
+					<td class="flyoutLink"><a href="/web/20040327220211/http://www.microsoft.com/windowsxp/using/default.asp">Using Windows XP</a></td>
+				
+				</tr>
+			</table>
+
+			<table width="175" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+				
+					<td class="flyoutLink"><a href="/web/20040327220211/http://www.microsoft.com/windowsxp/downloads/default.asp">Downloads</a></td>
+				
+				</tr>
+			</table>
+
+			<table width="175" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+				
+					<td class="flyoutLink"><a href="/web/20040327220211/http://www.microsoft.com/windowsxp/support/default.asp">Support</a></td>
+				
+				</tr>
+			</table>
+
+		</td>
+	</tr>
+</table>
+<table class="flyoutMenu" menudata="/windowsxp/inc/MnpXmlDataGen.asp" width="180" cellpadding="2" cellspacing="0" border="0">
+	<tr>
+		<td>
+
+			<table width="175" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+				
+					<td class="flyoutLink"><a href="/web/20040327220211/http://www.microsoft.com/windowsxp/expertzone/default.mspx">Expert Zone Community</a></td>
+				
+				</tr>
+			</table>
+			
+		</td>
+	</tr>
+</table>
+
+<table class="flyoutMenu" menudata="/windows/shared/winfamflyout.xml" width="180" cellpadding="2" cellspacing="0" border="0">
+	<tr>
+		<td>
+
+			<table width="175" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+				
+					<td class="flyoutLink" handle="0420"><a href="/web/20040327220211/http://www.microsoft.com/windows/">Windows Family</a></td>
+				
+				</tr>
+			</table>
+
+			<table width="175" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+				
+					<td class="flyoutLink"><a href="https://web.archive.org/web/20040327220211/http://go.microsoft.com/fwlink/?LinkId=374">Windows Catalog</a></td>
+				
+				</tr>
+			</table>
+
+			<table width="175" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+				
+					<td class="flyoutLink"><a href="https://web.archive.org/web/20040327220211/http://windowsupdate.microsoft.com/">Windows Update</a></td>
+				
+				</tr>
+			</table>
+
+			<table width="175" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+				
+					<td class="flyoutLink"><a href="/web/20040327220211/http://www.microsoft.com/windows/plus/dme/">Plus! for Windows XP</a></td>
+				
+				</tr>
+			</table>
+			
+		</td>
+	</tr>
+</table>
+
+												</td>
+												</tr>
+											</table>
+										<!-- end leftnav And search code -->
+									<table cellpadding="0" cellspacing="0" border="0" width="100%">
+									    <tr>
+									         <td><br>
+
+     <!-- -->
+<!-- Below LeftNav Area START -->
+<!-- Below LeftNav Area END -->
+
+                                                  </td>
+                                             </tr>
+                                        </table>
+                                   </td>
+                                   <td width="100%">
+                                   <!-- This is the new global Sub Product Banner ----- It needs to be built by a general lookup -->
+                                   
+				<table cellpadding="20" cellspacing="0" border="0" width="100%">
+				                                             <tr>
+				                                                  <td style="padding: 11px 20px 20px 20px;">
+    
+<!-- -->
+<!-- -->
+
+
+
+<!-- Floating SideBar Area START -->
+<!-- Floating SideBar Area END -->
+
+
+
+
+<!-- Main Content Area START -->
+
+
+
+    <table width="50%" border="0" cellpadding="3" cellspacing="2">
+    <tr>
+      <td id="tableProps" valign="top" align="left"><img id="pagerrorImg" src="/web/20040327220211im_/http://www.microsoft.com/products/shared/images/pagerror.gif" width="25" height="33"></td>
+      <td id="tableProps" align="left" valign="top">
+	       <h1 id="errortype" style="COLOR: black; FONT: 13pt/15pt verdana">
+		   <!--Problem--><id id="errorText">The page cannot be found</id>
+		   </h1>
+	  </td>
+    </tr></table>
+
+<table width="100%" border="0" cellpadding="3" cellspacing="2">
+	<tr><td>
+<table border="0" cellpadding="0" cellspacing="5">
+    <tr>
+      <td id="tablePropsWidth">
+	  	  <font style="COLOR: black; FONT: 8pt/11pt verdana">
+		  		The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.
+		  </font>
+	  </td>
+    </tr>
+    <tr>
+      <td id="tablePropsWidth"><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td bgcolor="#6699cc"><img height="1" src="/web/20040327220211im_/http://www.microsoft.com/products/shared/images/ts.gif"></td></tr></table></td>
+    </tr>
+    <tr>
+      <td class="small" id="tablePropsWidth">
+	  	  
+	  	  		<ul type="square" compact align="left"><font style="COLOR: black; FONT: 8pt/11pt verdana">
+					<li id="list1">Click the Refresh button&nbsp;<img alt="refresh" src="/web/20040327220211im_/http://www.microsoft.com/products/shared/images/refresh.gif" hspace="5" width="13" height="16">in your browser window to try the page again.<br><br></li>
+					<li id="list1">If you typed the page address in the Address bar, make sure that it is spelled correctly.<br><br></li>
+					<li id="list2">Open the <a href="/web/20040327220211/http://www.microsoft.com/windowsxp/"> Windows XP home page</a>, and then look for the information you want.<br><br></li>
+					<!--<LI ID="list3">Go to the <A href="/windows2000/downloads/default.asp"> download area</a>&nbsp;to download Windows features and updates.<BR><BR></LI>-->
+					<li id="list4">Click the <a href="javascript:history.back(1)"><img valign="bottom" border="0" src="/web/20040327220211im_/http://www.microsoft.com/products/shared/images/back.gif" width="12" height="16">Back</a> button to try another link.</li></font>
+				</ul>
+	  </td>
+    </tr>
+    
+    <tr>
+      <td id="tablePropsWidth"><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td bgcolor="#6699cc"><img height="1" src="/web/20040327220211im_/http://www.microsoft.com/products/shared/images/ts.gif"></td></tr></table></td>
+    </tr>
+     
+</table>
+
+</td></tr>
+</table>
+
+
+
+<!-- Main Content Area END -->
+
+
+
+
+<!-- Static SideBar Area START -->
+<!-- Static SideBar Area END -->
+
+										</td>
+                                             </tr>
+                                        </table>
+     
+                                   </td>
+                              </tr>
+                         </table>
+                    </td>
+               </tr>
+               <tr valign="top">
+                    <td>
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                            <td width="100%">
+
+		<br clear="all" style="line-height: 1px; overflow: hidden"/><table id="msviFooter" width="100%" cellpadding="0" cellspacing="0"><tr valign="bottom"><td id="msviFooter2" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#6487DB', gradientType='1')"><div id="msviLocalFooter"><nobr><a href="https://web.archive.org/web/20040327220211/http://go.microsoft.com/?linkid=317027">Manage Your Profile</a> |</nobr><wbr/><nobr><a href="https://web.archive.org/web/20040327220211/http://register.microsoft.com/contactus30/contactus.asp?domain=windows" target="_parent">Contact Us</a> |</nobr><wbr/><nobr><a href="javascript:window.navigate('mailto:?subject=A link from Microsoft &amp;amp;body=This link is from the Microsoft Windows XP Web site: '+this.window.location);" target="_parent">E-Mail This Page</a> |</nobr><wbr/><nobr><a href="/web/20040327220211/http://www.microsoft.com/windowsxp/newsletter/default.asp" target="_parent">Free Newsletter</a></nobr></div><div id="msviGlobalFooter"><span dir="ltr">&#169;2004 Microsoft Corporation. All rights reserved.&nbsp;</span><nobr><a href="https://web.archive.org/web/20040327220211/http://www.microsoft.com/info/cpyright.mspx">Terms of Use</a> |</nobr><wbr/><nobr><a href="https://web.archive.org/web/20040327220211/http://www.microsoft.com/info/privacy.mspx">Privacy Statement</a></nobr></div></td><td bgcolor="#6487DB" width="105"><img src="/web/20040327220211im_/http://www.microsoft.com/library/toolbar/3.0/text.aspx?t=TQ%3d%3d&amp;f=FFFFFF&amp;b=6487DB&amp;font=Microsoft+Logo+95%2c+13pt&amp;w=105&amp;h=29&amp;a=0&amp;l=0&amp;v=0&amp;c=DeMqBqiN3ORi7XLcgI%2fvxqO1OI4%3d" width="105" height="29" alt="Microsoft" title="" border="0"/></td></tr></table>
+		
+<script language="javascript">footerjs(document);</script>
+
+                            </td>
+                        </tr>
+                    </table>
+                    </td>
+               </tr>
+          </table>
+     
+
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 22:02:11 Mar 27, 2004 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:48:29 Jan 26, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.709
+  exclusion.robots: 0.023
+  exclusion.robots.policy: 0.011
+  esindex: 0.012
+  cdx.remote: 104.72
+  LoadShardBlock: 89.921 (3)
+  PetaboxLoader3.resolve: 69.026 (3)
+  PetaboxLoader3.datanode: 113.297 (4)
+  load_resource: 110.904
+-->
