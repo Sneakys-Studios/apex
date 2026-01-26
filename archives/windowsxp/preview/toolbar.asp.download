@@ -1,0 +1,875 @@
+var _____WB$wombat$assign$function_____=function(name){return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name))||self[name];};if(!self.__WB_pmw){self.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
+let window = _____WB$wombat$assign$function_____("window");
+let self = _____WB$wombat$assign$function_____("self");
+let document = _____WB$wombat$assign$function_____("document");
+let location = _____WB$wombat$assign$function_____("location");
+let top = _____WB$wombat$assign$function_____("top");
+let parent = _____WB$wombat$assign$function_____("parent");
+let frames = _____WB$wombat$assign$function_____("frames");
+let opens = _____WB$wombat$assign$function_____("opens");
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head><title>
+	Windows 8 and Windows RT - Microsoft Windows
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="robots" content="noodp" /><meta property="og:site_name" content="windows.microsoft.com" /><meta property="fb:app_id" content="474300725931385" /><meta property="og:title" content="Windows 8 and Windows RT - Microsoft Windows" /><meta property="og:image" content="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/resbox/en/Windows/2012-Win8GA/bf56a7b4-4cb1-43df-a483-9e19c31a3612_11.jpg" /><meta property="og:description" content="Meet Windows 8 and Windows RT. Find out about touch-based Windows 8 PCs, apps from the Windows Store, and new features like the Start screen and live tiles." /><meta property="og:type" content="article" /><meta property="og:url" content="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/meet" /><script type="text/javascript">
+//<![CDATA[
+var gTrackEvents=0;
+var gDomain="m.webtrends.com";
+var gDcsId="dcsaukzid100008i3dphd1nqy_6p8b";
+var gFpc="WT_FPC";
+var gOffsite=true;
+if(document.cookie.indexOf(gFpc+"=")==-1){
+document.write("<scr"+"ipt type='text/javascript' src='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/scr"+"ipt>");
+}
+//]]>
+</script>
+<style type="text/css">.accentBackground,a:focus .accentContainerSelectedItemBackgroundFocus{background-color:#00CCFF;}.accentBackgroundText,.accentBackgroundText:visited{color:#00CCFF;}.accentBorder{border-color:#00CCFF;}.accentForeground,.accentForeground:visited,a:focus .accentContainerSelectedItemForegroundFocus{color:#FFFFFF;}.accentForegroundHover:hover,.accentForegroundHover:focus,.accentForegroundHover:active,a:focus .accentContainerForegroundFocus{color:#FFFFFF;}a,a:visited,.accentColor,.accentLinkColor,.accentLinkColor:visited{color:#1570A6;}a:hover,a:focus,a:active,.accentColorHover:hover,.accentColorHover:focus,.accentColorHover:active,.accentLinkColor:hover,.accentLinkColor:focus,.accentLinkColor:active{color:#24459A;}.accentBackgroundHover:hover,.accentBackgroundHover:focus,a:hover .accentContainerBackgroundHover,a:focus .accentContainerBackgroundFocus{background-color:#24459A;}.accentBorderHover:hover,.accentBorderHover:focus{border-color:#24459A;}</style><link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20130108054541/http://res1.windows.microsoft.com/Resources/3.6/WOL/shared/css/windows8_site_ltr.css" /><link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20130108054541/http://res1.windows.microsoft.com/resbox/en/Windows/main/15d2470f-0fcf-45e9-bf5b-c943236a61cf_56.css" /><meta name="MS.PageId" content="898539" /><meta name="MS.PageVer" content="159" /><meta name="MS.CustomSitescope" content="[WindowsStore]" /><meta name="MS.Nav.Level" content="0" /><meta name="MS.Nav.Channel" content="Meet-Windows" /><meta name="MS.Culture" content="en-US" /><meta name="Search.os" content="Windows 8" /><meta name="Search.Product" content="eADQiWindows 8XVcnh" /><meta name="Search.Product" content="eADQiWindowsXVcnh" /><meta name="Search.SupportedOS" content="eADQiWindows 8XVcnh" /><meta name="Search.SupportedOS" content="eADQiNonOSSpecificXVcnh" /><meta name="Search.AppliesTo" content="WOL" /><meta name="Search.PageTitle" content="Windows 8 and Windows RT" /><meta name="Description" content="Meet Windows 8 and Windows RT. Find out about touch-based Windows 8 PCs, apps from the Windows Store, and new features like the Start screen and live tiles." /><meta name="Search.Culture" content="eADQien-USXVcnh" /><meta name="msapplication-TileImage" content="https://web.archive.org/web/20130108054541/http://res1.windows.microsoft.com/Resources/3.6/WOL/shared/images/Win8_Logo_144x144.png" /><meta name="msapplication-TileColor" content="#1A1A1A" /><meta name="MS.BIAuthStateLoggingDisabled" content="true" /><link rel="shortcut icon" href="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/Resources/3.6/WOL/shared/images/favicon.ico"></link></head>
+
+<!--[if lte IE 7]><body class="ie7 fontFamilyRegular headerIsPresent"><![endif]-->
+<!--[if IE 8]>    <body class="ie8 fontFamilyRegular headerIsPresent"><![endif]-->
+<!--[if gt IE 8]><!--> <body class="fontFamilyRegular headerIsPresent"><!--<![endif]-->
+
+    
+    <script type="text/javascript">
+        //<![CDATA[
+        document.body.className += ' scriptEnabled';
+        //]]>
+    </script>
+
+
+    
+    
+
+    
+    <div id="bodyContainer">
+        
+        <div MS.ExId="header" id="Header" logginginteractiontypeid="29" role="banner">
+	<div id="HeaderFBMain">
+		<div id="HeaderFBOpqaue">
+			&nbsp;
+		</div><div id="HeaderMainContainer">
+			<div id="HeaderNearChild">
+				<div id="HeaderWinLogo">
+					<a id="HeaderWinLogo_href" title="Windows" href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/home"><img alt="Windows" width="148" height="32" class="accentBackground" src="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/resbox/en/Windows/main/4300ae64-546c-4bbe-9026-6779b3684fb9_18.png" data-HCDkAltSrc="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/resbox/en/Windows/Main/3e4a80b8-11b1-42cd-8e66-448ddcb719ae_7.png" data-HCLtAltSrc="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/resbox/en/Windows/Main/b5a0bcd3-ee2d-4784-8271-39c6a82829c5_7.png" /></a>
+				</div><a id="SkipToContentPane" href="#bodyContentPane">Skip to content pane</a><div MS.ExId="primaryNav" id="HeaderPrimaryNav" role="navigation">
+					<a id="tIdMeet-Windows" class="HeaderActTax accentBackgroundText" href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/meet">MEET WINDOWS</a><a id="tIdDownload-Shop" class="HeaderNoAccent" href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/download-shop">DOWNLOAD &#38; SHOP</a><a id="tIdHow-To" class="HeaderNoAccent" href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/how-to">HOW-TO</a><a id="tIdSupport" class="HeaderNoAccent" href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/support">SUPPORT</a>
+				</div>
+			</div><div id="HeaderFarChild">
+				<div MS.ExId="searchBox" class="SearchQuery" data-action="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/search" role="search">
+	<div class="SearchQueryTextInput">
+		<input type="search" name="q" title="Search this website" class="SearchQueryTextInput" autocomplete="off" maxlength="500" />
+	</div><div class="SearchQuerySubmit">
+		<button title="Search" type="button" class="accentBackground accentForeground"><div class="clip24x24">
+			<img src="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/Resources/3.6/WOL/shared/images/merged/gl_site.png" draggable="false" data-disabledefaultlogging="true" />
+		</div></button>
+	</div>
+</div><div id="HeaderSignIn">
+					<span id="WOLLoadingSpan">Sign in</span><script type="text/javascript" language="javascript">//<![CDATA[
+var WolAuthenticationSilentAuthHref = "https://web.archive.org/web/20130108054541/https://login.live.com:443/login.srf?wa=wsignin1.0&rpsnv=11&checkda=1&rver=6.1.6206.0&wp=LBI_SSL&wreply=https%3a%2f%2fredir.windows.microsoft.com%2fliveid%3fru%3dWolSilentAuthenticationHandler.ashx&lc=1033&id=285275";//]]></script><img src="https://web.archive.org/web/20130108054541/https://login.live.com:443/login.srf?wa=wsignin1.0&amp;rpsnv=11&amp;rver=6.1.6206.0&amp;wp=LBI_SSL&amp;wreply=https%3a%2f%2fredir.windows.microsoft.com%2fliveid%3fru%3den-US%252fwindows-8%252fmeet&amp;lc=1033&amp;id=285275&amp;cbcxt=h_d10db682284e41afabd0100efcf3b93b_p_03be6e51a12b41ab82881f1acdba78e2&amp;mkt=en-US&amp;AJ=1" id="WolAuthenticationIndicatorImage" style="display:none" /><a href="https://web.archive.org/web/20130108054541/https://account.live.com/summarypage.aspx" id="WOLUserName" style="display:none"></a><a href="https://web.archive.org/web/20130108054541/http://login.live.com:80/logout.srf?rver=6.1.6206.0&amp;lc=1033&amp;id=285275&amp;ru=https%3a%2f%2fredir.windows.microsoft.com%2fliveid%3fru%3den-US%252fwindows-8%252fmeet" id="WOLSignOutButton" style="display:none">Sign out</a><a href="https://web.archive.org/web/20130108054541/https://login.live.com:443/login.srf?wa=wsignin1.0&amp;rpsnv=11&amp;rver=6.1.6206.0&amp;wp=LBI_SSL&amp;wreply=https%3a%2f%2fredir.windows.microsoft.com%2fliveid%3fru%3den-US%252fwindows-8%252fmeet&amp;lc=1033&amp;id=285275&amp;cbcxt=h_d10db682284e41afabd0100efcf3b93b_p_03be6e51a12b41ab82881f1acdba78e2&amp;mkt=en-US" id="WOLSignInButton" style="display:none">Sign in</a>
+				</div>
+			</div><div style="clear:both">
+
+			</div>
+		</div>
+	</div><div MS.ExId="subNav" id="HeaderFBSub">
+		<div id="HeaderFBTransparent">
+			&nbsp;
+		</div><div id="HeaderSecondaryContainer" data-enableAnimations="true">
+			<div id="HeaderNavSecondary" role="navigation">
+				<a id="tIdNew-Look" class="HeaderNoAccent HeaderLeaf" href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/new-look">A new look</a><a id="tIdPCs" class="HeaderNoAccent HeaderLeaf" href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/new-pcs">New PCs</a><a id="tIdWork-Play" class="HeaderNoAccent HeaderLeaf" href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/work-play">Work &#38; play</a><a id="tIdApps" class="HeaderNoAccent HeaderLeaf" href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/apps">Apps</a><a id="tIdSkyDrive" class="HeaderNoAccent HeaderLeaf" href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/skydrive">SkyDrive</a><a id="tIdInternet-Explorer" class="HeaderNoAccent HeaderLeaf" href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/internet-explorer">Internet Explorer</a>
+			</div><div id="HeaderChevronContainer">
+				<button id="HeaderPrevious" class="HeaderButton" type="button"><div id="HeaderPrevImg">
+					<img src="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/Resources/3.6/WOL/shared/images/merged/gl_site.png" draggable="false" />
+				</div></button><button id="HeaderNext" class="HeaderButton" type="button"><div id="HeaderNextImg">
+					<img src="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/Resources/3.6/WOL/shared/images/merged/gl_site.png" draggable="false" />
+				</div></button>
+			</div>
+		</div>
+	</div><div MS.ExId="header" id="truncStr" style="display:none">
+		&#8230;
+	</div>
+</div><a id="TopOfPageTarget" class="inPageAnchor"></a>
+
+        
+        <div id="bodyContentPane" role="main">
+            
+            
+                <form action="/en-US/windows-8/meet" id="aspnetForm" method="post" name="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1NDc0OTQ4NTZkZFDj9tq+aEiaAfl6XVIilSmrb6sW" />
+
+
+<script src="https://web.archive.org/web/20130108054541/http://ajax.microsoft.com/ajax/4.0/2/MicrosoftAjax.js" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20130108054541/http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.5.2.min.js" type="text/javascript"></script>
+<script src="/Scripts/3.6/WOL/s_code.js" type="text/javascript"></script>
+<script src="/Scripts/3.6/WOL/webtrends.js" type="text/javascript"></script>
+<script src="/Scripts/3.6/WOL/wol.common.js" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20130108054541/http://js.microsoft.com/library/svy/windows/pre_broker.js" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20130108054541/http://js.microsoft.com/library/svy/windows/broker.js" type="text/javascript"></script>
+                    
+
+                    
+    
+    
+    
+    
+    
+    <div id="S01Outer" class="regionOuter sectionTop heroTop heroVideoTop ">
+	<div id="S01Mid" class="regionMid ">
+		<div id="S01" class="region regionGroup ">
+			
+        
+        <div id="ctl00_FormlessContentPlaceholder_ContentPlaceholder_C01" class="containerFullWidth">
+            <div class="HeroContainer ShowTitleCard"><div class="HeroVideoContainerParent HideHeroVideoContainer"><div class="HeroVideoContainerBackground"></div><div class="HeroVideoContainer" style="min-height: 459px;"><div class="UnresolvedVideoContainer" data-videoDetection="[{&quot;html&quot;:&quot;&lt;div class=\&quot;mpContainer\&quot; tabindex=\&quot;-1\&quot; style=\&quot;width:816px;height:459px\&quot; MS.ExId=\&quot;html5player\&quot; MS.CId=\&quot;1068671\&quot; MS.CVer=\&quot;12\&quot;&gt;&lt;video controls=\&quot;controls\&quot; src=\&quot;http:\/\/res2.windows.microsoft.com\/resbox\/en\/6.2\/2012-Win8GA\/0af6f7aa-de48-444f-977e-ff8856a92cb7_12.mp4\&quot; title=\&quot;\&quot;&gt;&lt;track kind=\&quot;captions\&quot; src=\&quot;\/assetresource\/en-US\/6.2\/main\/ade058e4-b682-4088-9b3a-92527749d8e2\&quot; \/&gt;&lt;\/video&gt;&lt;div class=\&quot;mpCaption\&quot;&gt;&lt;div class=\&quot;mpCaptionInner\&quot;&gt;&lt;\/div&gt;&lt;\/div&gt;&lt;div class=\&quot;mpControlBar\&quot;&gt;&lt;div class=\&quot;mpControlBarNear\&quot;&gt;&lt;button type=\&quot;button\&quot; class=\&quot;mpButton mpBtnPlay\&quot; title=\&quot;Play\&quot;&gt;&lt;div&gt;&lt;img src=\&quot;http:\/\/res2.windows.microsoft.com\/Resources\/3.6\/WOL\/shared\/images\/merged\/gl_site.png\&quot; draggable=\&quot;false\&quot; \/&gt;&lt;\/div&gt;&lt;\/button&gt;&lt;button type=\&quot;button\&quot; class=\&quot;mpButton mpBtnPause\&quot; title=\&quot;Pause\&quot;&gt;&lt;div&gt;&lt;img src=\&quot;http:\/\/res2.windows.microsoft.com\/Resources\/3.6\/WOL\/shared\/images\/merged\/gl_site.png\&quot; draggable=\&quot;false\&quot; \/&gt;&lt;\/div&gt;&lt;\/button&gt;&lt;\/div&gt;&lt;div class=\&quot;mpControlBarFill\&quot;&gt;&lt;button type=\&quot;button\&quot; class=\&quot;mpTimeline\&quot; title=\&quot;Seek\&quot;&gt;&lt;div class=\&quot;mpTimelineBackground\&quot;&gt;&lt;div class=\&quot;mpTimelineLoaded\&quot; style=\&quot;width:0%\&quot;&gt;&lt;\/div&gt;&lt;div class=\&quot;mpTimelineWatched\&quot; style=\&quot;width:0%\&quot;&gt;&lt;\/div&gt;&lt;div class=\&quot;mpTimelineMarkerContainer\&quot;&gt;&lt;div class=\&quot;mpTimelineMarker\&quot; style=\&quot;left:0%\&quot;&gt;&lt;\/div&gt;&lt;\/div&gt;&lt;\/div&gt;&lt;\/button&gt;&lt;\/div&gt;&lt;div class=\&quot;mpControlBarFar\&quot;&gt;&lt;div class=\&quot;mpTimeBox\&quot;&gt;&lt;span class=\&quot;mpTimeElapsed\&quot; title=\&quot;Time elapsed\&quot;&gt;0:00:00&lt;\/span&gt; \/ &lt;span class=\&quot;mpTimeRemaining\&quot; title=\&quot;Time remaining\&quot;&gt;0:00:00&lt;\/span&gt;&lt;\/div&gt;&lt;button type=\&quot;button\&quot; class=\&quot;mpButton mpBtnCaption mpBtnCaptionUS\&quot; title=\&quot;Closed captioning\&quot;&gt;&lt;div&gt;&lt;img src=\&quot;http:\/\/res2.windows.microsoft.com\/Resources\/3.6\/WOL\/shared\/images\/merged\/gl_site.png\&quot; draggable=\&quot;false\&quot; \/&gt;&lt;\/div&gt;&lt;\/button&gt;&lt;button type=\&quot;button\&quot; class=\&quot;mpButton mpBtnVolume\&quot; title=\&quot;Volume\/Mute\&quot; data-defaultTitle=\&quot;Volume\/Mute\&quot; data-popUpTitle=\&quot;Mute\&quot;&gt;&lt;div&gt;&lt;img src=\&quot;http:\/\/res2.windows.microsoft.com\/Resources\/3.6\/WOL\/shared\/images\/merged\/gl_site.png\&quot; draggable=\&quot;false\&quot; \/&gt;&lt;\/div&gt;&lt;\/button&gt;&lt;button type=\&quot;button\&quot; class=\&quot;mpButton mpBtnMute\&quot; title=\&quot;Unmute\&quot;&gt;&lt;div&gt;&lt;img src=\&quot;http:\/\/res2.windows.microsoft.com\/Resources\/3.6\/WOL\/shared\/images\/merged\/gl_site.png\&quot; draggable=\&quot;false\&quot; \/&gt;&lt;\/div&gt;&lt;\/button&gt;&lt;div class=\&quot;mpVolSliderContainer\&quot;&gt;&lt;button type=\&quot;button\&quot; class=\&quot;mpVolSlider\&quot; title=\&quot;Volume\&quot;&gt;&lt;div class=\&quot;mpVolBg\&quot;&gt;&lt;div class=\&quot;mpVolFilledBar\&quot; style=\&quot;height:75%\&quot;&gt;&lt;\/div&gt;&lt;div class=\&quot;mpVolMarkerContainer\&quot;&gt;&lt;div class=\&quot;mpVolMarker\&quot; style=\&quot;bottom:75%\&quot;&gt;&lt;\/div&gt;&lt;\/div&gt;&lt;\/div&gt;&lt;\/button&gt;&lt;\/div&gt;&lt;button type=\&quot;button\&quot; class=\&quot;mpButton mpBtnFullScreen\&quot; title=\&quot;Full screen\&quot;&gt;&lt;div&gt;&lt;img src=\&quot;http:\/\/res2.windows.microsoft.com\/Resources\/3.6\/WOL\/shared\/images\/merged\/gl_site.png\&quot; draggable=\&quot;false\&quot; \/&gt;&lt;\/div&gt;&lt;\/button&gt;&lt;button type=\&quot;button\&quot; class=\&quot;mpButton mpBtnRestore\&quot; title=\&quot;Exit full screen\&quot;&gt;&lt;div&gt;&lt;img src=\&quot;http:\/\/res2.windows.microsoft.com\/Resources\/3.6\/WOL\/shared\/images\/merged\/gl_site.png\&quot; draggable=\&quot;false\&quot; \/&gt;&lt;\/div&gt;&lt;\/button&gt;&lt;\/div&gt;&lt;div class=\&quot;mpControlBarError\&quot;&gt;The video cannot be played.&lt;\/div&gt;&lt;\/div&gt;&lt;\/div&gt;&quot;,&quot;reqParam&quot;:null,&quot;reqType&quot;:&quot;html5player&quot;},{&quot;html&quot;:&quot;&lt;object height=\&quot;459\&quot; width=\&quot;816\&quot; data=\&quot;data:application\/x-silverlight-2,\&quot; type=\&quot;application\/x-silverlight-2\&quot; data-scriptId=\&quot;p25e957a7677b4093acd679448b8738d3\&quot; class=\&quot;VideoPlayer\&quot; MS.ExId=\&quot;silverlightplayer\&quot; MS.CId=\&quot;1068671\&quot; MS.CVer=\&quot;12\&quot;&gt;&lt;param name=\&quot;source\&quot; value=\&quot;http:\/\/res1.windows.microsoft.com\/Resources\/3.6\/WOL\/shared\/silverlight\/videoplayer.xap\&quot; \/&gt;&lt;param name=\&quot;minRuntimeVersion\&quot; value=\&quot;4.0.50401.0\&quot; \/&gt;&lt;param name=\&quot;autoUpgrade\&quot; value=\&quot;true\&quot; \/&gt;&lt;param name=\&quot;windowless\&quot; value=\&quot;true\&quot; \/&gt;&lt;param name=\&quot;enablehtmlaccess\&quot; value=\&quot;true\&quot; \/&gt;&lt;param name=\&quot;enableGPUAcceleration\&quot; value=\&quot;true\&quot; \/&gt;&lt;param name=\&quot;InitParams\&quot; value=\&quot;mediaurl=http:\/\/res2.windows.microsoft.com\/resbox\/en\/6.2\/2012-Win8GA\/0af6f7aa-de48-444f-977e-ff8856a92cb7_12.mp4,ScriptableName=p25e957a7677b4093acd679448b8738d3,mimeType=video\/mp4,captionUrl=\/assetresource\/en-US\/6.2\/main\/ade058e4-b682-4088-9b3a-92527749d8e2,silverlightVideoClosedCaptionOff=CC+off,silverlightVideoClosedCaptionOn=CC+on,silverlightVideoExitFullscreen=Exit+full+screen,silverlightVideoFullscreen=Full+screen,silverlightVideoMute=Mute,silverlightVideoUnMute=Unmute,silverlightVideoPause=Pause,silverlightVideoPlay=Play\&quot; \/&gt;&lt;\/object&gt;&quot;,&quot;reqParam&quot;:&quot;\/scripts\/3.6\/WOL\/silverlight.js&quot;,&quot;reqType&quot;:&quot;silverlightplayer&quot;},{&quot;html&quot;:&quot;&lt;div class=\&quot;contentContainer\&quot; MS.ExId=\&quot;render\&quot; MS.CId=\&quot;898538\&quot; MS.CVer=\&quot;85\&quot;&gt;&lt;script type=\&quot;text\/javascript\&quot;&gt;\u000a      \/\/&lt;![CDATA[\u000a      link_expandAllText = 'Show all';\u000a      link_collapseAllText = 'Hide all';\u000a      \/\/]]&gt;&lt;\/script&gt;&lt;div class=\&quot;topic_body_full contentPiece\&quot;&gt;&lt;div class=\&quot;heroBase heroSizeL heroDkTxt heroStndHero\&quot;&gt;&lt;div class=\&quot;heroCellBase heroNearCell\&quot;&gt;&lt;div class=\&quot;heroDockOuterElem heroDockNear heroDockTop\&quot;&gt;&lt;div class=\&quot;heroDockElem\&quot;&gt;&lt;div class=\&quot;heroDockInnerElem\&quot;&gt;&lt;h2 class=\&quot;headingBase headingXXL saHeadingXXL\&quot;&gt; Meet &lt;span class=\&quot;notLocalizable\&quot;&gt;Windows 8&lt;\/span&gt;&lt;\/h2&gt;&lt;h2 class=\&quot;headingBase headingS saHeadingS\&quot;&gt;\u000a            More beautiful, more flexible, more you.&lt;br \/&gt;And very, very fast.\u000a          &lt;\/h2&gt;&lt;\/div&gt;&lt;\/div&gt;&lt;\/div&gt;&lt;\/div&gt;&lt;div class=\&quot;heroCellBase heroFarCell\&quot;&gt;&lt;div class=\&quot;heroDockOuterElem heroDockFar heroDockTop\&quot;&gt;&lt;div class=\&quot;heroDockElem\&quot;&gt;&lt;div class=\&quot;heroDockInnerElem\&quot;&gt;&lt;div class=\&quot;para lastElement\&quot;&gt;&lt;img class=\&quot;embedObject\&quot; src=\&quot;http:\/\/res1.windows.microsoft.com\/resbox\/en\/6.2\/2012-Win8GA\/43f643a6-8793-4e2c-93f3-bf67a8aa8de0_31.png\&quot; alt=\&quot;\&quot; title=\&quot;\&quot; height=\&quot;408\&quot; width=\&quot;405\&quot; data-id=\&quot; _ID0EBBBBBA\&quot; \/&gt;&lt;\/div&gt;&lt;\/div&gt;&lt;\/div&gt;&lt;\/div&gt;&lt;\/div&gt;&lt;\/div&gt;&lt;\/div&gt;&lt;\/div&gt;&quot;,&quot;reqParam&quot;:null,&quot;reqType&quot;:null}]"></div></div></div><div class="EndCardContainer"><div class="contentContainer" MS.ExId="render" MS.CId="898540" MS.CVer="64"><script type="text/javascript">
+      //<![CDATA[
+      link_expandAllText = 'Show all';
+      link_collapseAllText = 'Hide all';
+      //]]></script><div class="topic_body_full contentPiece"><div class="heroBase heroSizeL heroDkTxt heroStndHero"><div class="heroCellBase heroNearCell"><div class="heroDockOuterElem heroDockNear heroDockTop"><div class="heroDockElem"><div class="heroDockInnerElem"><h2 class="headingBase headingXXL saHeadingXXL">Meet 
+            <span class="notLocalizable">Windows 8</span></h2><h2 class="headingBase headingS saHeadingS">
+            More beautiful, more flexible, more you. <br />And very, very fast.
+
+          </h2><span class="btnBase VSContainerSelected"><a href="#void"><span class="btnContentContainer accentBackground accentBackgroundHover accentForeground accentForegroundHover accentContainerBackgroundFocus accentContainerForegroundFocus"><span class="btnTextContainer">Watch the video</span></span></a></span></div></div></div></div><div class="heroCellBase heroFarCell"><div class="heroDockOuterElem heroDockFar heroDockTop"><div class="heroDockElem"><div class="heroDockInnerElem"><div class="para lastElement"><img class="embedObject" src="https://web.archive.org/web/20130108054541/http://res1.windows.microsoft.com/resbox/en/6.2/2012-Win8GA/43f643a6-8793-4e2c-93f3-bf67a8aa8de0_31.png" alt="" title="" height="408" width="405" data-id=" _ID0EBBBBBA" /></div></div></div></div></div></div></div></div></div></div>
+        </div>
+    
+		</div>
+	</div>
+</div>
+
+    
+    <div id="S02Outer" class="regionOuter sectionMiddle heroBottom heroVideoBottom ">
+	<div id="S02Mid" class="regionMid ">
+		<div id="S02" class="region regionGroup ">
+			
+        
+        <div id="ctl00_FormlessContentPlaceholder_ContentPlaceholder_C02" class="containerFullWidth">
+            <div class="contentContainer" MS.ExId="render" MS.CId="1090587" MS.CVer="97"><script type="text/javascript">
+      //<![CDATA[
+      link_expandAllText = 'Show all';
+      link_collapseAllText = 'Hide all';
+      //]]></script><div class="topic_body_full contentPiece">
+
+
+
+    <div style="height:8px;" class="vertBuff"></div>
+
+    <h2 class="headingBase headingXL saHeadingXL">What's new</h2>
+
+
+
+    
+
+      <div class="defaultTableBlock"><table class="section_section-grid-2col-near grid-near" summary=""><tbody><tr><td class="grid grid-first"><div class="section sectionNormal"><div class="">
+            
+            <h3 class="headingBase headingS saHeadingS">The Start screen</h3>
+            <p class="para">
+              Everything you care about most is on the new <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/new-look" class="navigationLink" data-id="ID0EBNDBBNBA">Start screen</a>. Tiles on the Start screen are connected to people, apps, folders, photos, or websites, and are alive with the latest info, so you're up to date at a glance.
+            </p>
+
+
+            <div style="height:5px;" class="vertBuff"></div>
+
+            <h3 class="headingBase headingS saHeadingS">Mouse, keyboard—and now touch</h3>
+            <p class="para">
+              <span class="notLocalizable">Windows 8</span> is perfect for PCs with only a mouse and keyboard, those with touchscreens, and those with both. Whatever kind of PC you have, you'll discover fast and fluid ways to switch between apps, move things around, and go  smoothly from one place to another.
+            </p>
+
+
+            <div style="height:5px;" class="vertBuff"></div>
+
+            <h3 class="headingBase headingS saHeadingS">New PCs</h3>
+            <p class="para">
+              There are amazing <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/tablets-computers" class="navigationLink" data-id="ID0EBBDBBNBA">new PCs</a> of all kinds, including sleek and lightweight tablets, convertibles, and laptops.
+            </p>
+
+          </div></div></td><td class="tablePadding"></td><td class="grid grid-last"><div class="section sectionNormal"><div class="">
+            
+
+            <h3 class="headingBase headingS saHeadingS">
+                Apps from the <span class="notLocalizable">Windows</span> Store
+              </h3>
+            <p class="para">
+              <span class="notLocalizable">Windows 8</span> comes with a new store for <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/apps" class="navigationLink" data-id="ID0EDNBBBNBA">apps</a>, the <span class="notLocalizable">Windows</span> Store. Open the Store right from your Start screen to browse and download apps for cooking, photos, sports, news, and a lot more—many of them free.
+            </p>
+            <div style="height:5px;" class="vertBuff"></div>
+            <h3 class="headingBase headingS saHeadingS">Millions of streaming songs</h3>
+            <p class="para">
+              <span class="notLocalizable">Windows 8</span> also includes the <span class="notLocalizable">Xbox</span> Music app, which gives you access to a whole world of music.
+            </p>
+
+
+            <div style="height:5px;" class="vertBuff"></div>
+
+            <h3 class="headingBase headingS saHeadingS">
+                Your <span class="notLocalizable">Windows</span>, everywhere
+              </h3>
+            <p class="para">
+              Sign in with your Microsoft account to any of your PCs running <span class="notLocalizable">Windows 8</span> and you'll immediately see your own background, display preferences, and settings.
+            </p>
+
+
+          </div></div></td></tr></tbody></table></div>
+    
+
+
+    <div class="vertBuff vertBuffSmall"></div>
+
+
+    <h2 class="headingBase headingXL saHeadingXL">The familiar made better</h2>
+
+
+    
+
+      <div class="defaultTableBlock"><table class="section_section-grid-2col-near grid-near" summary=""><tbody><tr><td class="grid grid-first"><div class="section sectionNormal"><div class="">
+            
+            <div class="para">
+              <img class="embedObject" src="https://web.archive.org/web/20130108054541/http://res1.windows.microsoft.com/resbox/en/Windows/main/ac0c462b-0b56-431a-8c53-4a846faacee2_17.jpg" alt="A person running a Windows 8 PC" title="A person running a Windows 8 PC" height="272" width="484" data-id="ID0EBBDBBHBA" />
+            </div>
+          </div></div></td><td class="tablePadding"></td><td class="grid grid-last"><div class="section sectionNormal"><div class="">
+            
+
+            <h3 class="headingBase headingS saHeadingS">The desktop</h3>
+            <p class="para">
+              The desktop that you're used to—with its taskbar, folders, and icons—is still here and better than ever, with a new taskbar and streamlined file management.
+            </p>
+
+            <div style="height:5px;" class="vertBuff"></div>
+
+            <h3 class="headingBase headingS saHeadingS">Security</h3>
+            <p class="para">
+              Stay up to date and more secure with <span class="notLocalizable">Windows Defender</span>, <span class="notLocalizable">Windows Firewall</span>, and <span class="notLocalizable">Windows Update</span>.
+            </p>
+
+            <div style="height:5px;" class="vertBuff"></div>
+
+            <h3 class="headingBase headingS saHeadingS">Speed</h3>
+            <p class="para">
+              <span class="notLocalizable">Windows 8</span> starts up faster, switches between apps faster, and uses power more efficiently than
+                <span class="notLocalizable">Windows 7</span>.
+            </p>
+
+
+          </div></div></td></tr></tbody></table></div>
+    
+
+
+    <div class="vertBuff vertBuffSmall"></div>
+
+
+    <h2 class="headingBase headingXL saHeadingXL">
+        Why download <span class="notLocalizable">Windows 8</span>?
+      </h2>
+
+
+    
+
+      <div class="defaultTableBlock"><table class="section_section-grid-2col-near grid-near lastElement" summary=""><tbody><tr><td class="grid grid-first"><div class="section sectionNormal"><div class="">
+            
+            <div class="para">
+              <img class="embedObject" src="https://web.archive.org/web/20130108054541/http://res1.windows.microsoft.com/resbox/en/Windows/main/fa3ef908-811c-4643-9faf-365962b63e5d_24.jpg" alt="A PC running Windows 8" title="A PC running Windows 8" height="272" width="484" data-id="ID0EBBDBBBBA" />
+            </div>
+          </div></div></td><td class="tablePadding"></td><td class="grid grid-last"><div class="section sectionNormal lastElement"><div class="">
+            
+
+            <h3 class="headingBase headingS saHeadingS">It goes where you go</h3>
+            <p class="para">
+              Your pictures, files, and settings are easily synced through the cloud, so you can get to what you need almost anywhere.
+            </p>
+
+            <div style="height:5px;" class="vertBuff"></div>
+
+            <h3 class="headingBase headingS saHeadingS">It plays as hard as it works</h3>
+            <p class="para">
+              <span class="notLocalizable">Windows 8</span> gives you the power to quickly browse, watch movies, play games, polish your resume, and pull together a killer presentation—all on a single PC.
+            </p>
+
+
+            <div style="height:5px;" class="vertBuff"></div>
+
+            <h3 class="headingBase headingS saHeadingS">You keep all your files</h3>
+            <p class="para">
+              If your PC is running <span class="notLocalizable">Windows 7</span>, your files, apps, and settings will easily transfer to <span class="notLocalizable">Windows 8</span>.
+            </p>
+
+            <div style="height:5px;" class="vertBuff"></div>
+
+            <h3 class="headingBase headingS saHeadingS">You keep familiar programs</h3>
+            <p class="para lastElement">
+              Programs that run on <span class="notLocalizable">Windows 7</span> will run on <span class="notLocalizable">Windows 8</span>.
+            </p>
+          </div></div></td></tr></tbody></table></div>
+    
+
+
+
+  
+</div></div>
+        </div>
+    
+		</div>
+	</div>
+</div>
+    
+    
+    <div id="S03Outer" class="regionOuter sectionBottom ">
+	<div id="S03Mid" class="regionMid ">
+		<div id="S03" class="region regionGroup ">
+			
+        
+        <div id="ctl00_FormlessContentPlaceholder_ContentPlaceholder_C03" class="containerFullWidth">
+            <div class="contentContainer" MS.ExId="render" MS.CId="1090568" MS.CVer="39"><script type="text/javascript">
+      //<![CDATA[
+      link_expandAllText = 'Show all';
+      link_collapseAllText = 'Hide all';
+      //]]></script><div class="topic_body_full contentPiece">
+
+
+    <div class="heroBase heroSizeS heroDkTxt heroCmpgnModule"><div class="heroCellBase heroNearCell"><div class="heroDockOuterElem heroDockNear heroDockVCtr"><div class="heroDockElem"><div class="heroDockInnerElem"><h2 class="headingBase headingXXL saHeadingXXL">
+            Download <br />for $39.99
+          </h2><h2 class="headingBase headingS saHeadingS">
+            Upgrade to <span class="notLocalizable">Windows 8 Pro</span> by 1/31/13 for an amazing price.
+            <br />
+            Plus, get over $70 in special app offers. ERP.
+          </h2><span class="btnBase"><a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/buy?ocid=GA8_O_WOL_DIS_Meet_FPP_Null_01App" title=""><span class="btnContentContainer accentBackground accentBackgroundHover accentForeground accentForegroundHover accentContainerBackgroundFocus accentContainerForegroundFocus"><span class="btnTextContainer">Get started</span></span></a></span></div></div></div></div><div class="heroCellBase heroFarCell"><div class="heroDockOuterElem heroDockNear heroDockVCtr"><div class="heroDockElem"><div class="heroDockInnerElem"><div class="para lastElement"><img class="embedObject" src="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/resbox/en/Windows/2012-Win8GA/9fb33c64-1aff-454f-88cf-c4d899721608_25.png" alt="Windows 8 Pro" title="Windows 8 Pro" height="254" width="484" data-id="ID0EBBBBBA" /></div></div></div></div></div></div>
+  
+</div></div>
+        </div>
+    
+		</div>
+	</div>
+</div>
+
+    
+    <div id="S04Outer" class="regionOuter sectionBottom ">
+	<div id="S04Mid" class="regionMid ">
+		<div id="S04" class="region regionGroup ">
+			
+        
+        <div id="ctl00_FormlessContentPlaceholder_ContentPlaceholder_C04" class="containerFullWidth">
+            <div class="contentContainer" MS.ExId="render" MS.CId="1090671" MS.CVer="43"><script type="text/javascript">
+      //<![CDATA[
+      link_expandAllText = 'Show all';
+      link_collapseAllText = 'Hide all';
+      //]]></script><div class="topic_body_full contentPiece">
+
+
+
+    <h2 class="headingBase headingXL saHeadingXL">Meet
+        <span class="notLocalizable">Windows RT</span>
+      </h2>
+
+    
+
+      <div class="defaultTableBlock"><table class="section_section-grid-2col-near grid-near lastElement" summary=""><tbody><tr><td class="grid grid-first"><div class="section sectionNormal"><div class="">
+            
+            <div class="para">
+              <img class="embedObject" src="https://web.archive.org/web/20130108054541/http://res1.windows.microsoft.com/resbox/en/6.2/2012-Win8GA/3a1df1b9-3709-4ba2-aa6b-48d43076c528_10.png" alt="Windows RT PC" title="Windows RT PC" height="272" width="484" data-id="ID0EBBDBBBBA" />
+            </div>
+          </div></div></td><td class="tablePadding"></td><td class="grid grid-last"><div class="section sectionNormal lastElement"><div class="">
+            
+            <h3 class="headingBase headingS saHeadingS">Exclusively on new PCs</h3>
+            <p class="para">In addition to Windows 8, there's a version of Windows called
+              <span class="notLocalizable">Windows RT</span> that runs on some tablets and PCs. These lightweight PCs have fantastic battery life, and are a great option for doing stuff on the go. You can't install <span class="notLocalizable">Windows RT</span> on your current PC. You can only get it by buying a  <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/rt?ocid=GA8_O_WOL_INL_NewPC_PC_Null" class="navigationLink" data-id="ID0EBPBBBBBA">
+                  <span class="notLocalizable"> Windows RT</span> PC</a>.
+            </p>
+
+            <div style="height:5px;" class="vertBuff"></div>
+
+            <h3 class="headingBase headingS saHeadingS">Includes a special version of Office</h3>
+
+            <h2 class="headingBase headingL saHeadingL"></h2>
+            <p class="para">
+              <span class="notLocalizable">Windows RT</span> comes with <a href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/?LinkId=259770" class="navigationLink" data-id="ID0EBHBBBBBA"><span class="notLocalizable">Microsoft</span> <span class="notLocalizable">Office Home &amp; Student 2013 RT Preview</span></a>. This version of Office is optimized for touchscreens and automatically updates so you always have the latest version.
+            </p>
+
+
+            <div style="height:5px;" class="vertBuff"></div>
+
+            <h3 class="headingBase headingS saHeadingS">
+                Exclusively runs <span class="notLocalizable">Windows</span> Store apps
+              </h3>
+            <p class="para lastElement">
+              <span class="notLocalizable">Windows RT</span> only runs apps that you download from the <span class="notLocalizable">Windows Store</span>, and also has great built-in apps like Mail, People, Messaging, Photos, SkyDrive, Music, and Video, so you can stay in touch and have fun.
+            </p>
+          </div></div></td></tr></tbody></table></div>
+    
+  
+</div></div>
+        </div>
+    
+		</div>
+	</div>
+</div>
+
+    
+    <div id="S05Outer" class="regionOuter sectionBottom ">
+	<div id="S05Mid" class="regionMid ">
+		<div id="S05" class="region regionGroup ">
+			
+        
+        <div id="ctl00_FormlessContentPlaceholder_ContentPlaceholder_C05" class="containerFullWidth">
+            <div class="contentContainer" MS.ExId="render" MS.CId="898537" MS.CVer="82"><script type="text/javascript">
+      //<![CDATA[
+      link_expandAllText = 'Show all';
+      link_collapseAllText = 'Hide all';
+      //]]></script><div class="topic_body_full contentPiece">
+
+
+    <div class="hrContainer"><hr class="hrBase hrFull hrVarVSS" /></div>
+    <div class="ccGridPullUpBottom-ItemListNormal">
+        <div class="defaultTableBlock"><table class="section_section-grid-4col-near grid-near lastElement" summary=""><tbody><tr><td class="grid grid-first"><div class="section sectionNormal"><div class="">
+              
+              <div class="iList"><div class="iListHeading"><h2 class="headingBase headingS"><a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/buy?ocid=GA8_O_WOL_SM_Meet_FPP_Null">
+                    Download <span class="notLocalizable">Windows 8</span></a></h2></div><div class="iListDesc"><div class="amlTextDesc"><p class="para">Get the <span class="notLocalizable">Windows 8 Pro</span> upgrade for an incredible price.</p></div></div></div>
+            </div></div></td><td class="tablePadding"></td><td class="grid grid-mid"><div class="section sectionNormal"><div class="">
+              
+              <div class="iList"><div class="iListHeading"><h2 class="headingBase headingS"><a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/compare">
+                    Compare <span class="notLocalizable">Windows</span>
+                  </a></h2></div><div class="iListDesc"><div class="amlTextDesc"><p class="para">
+                      Find out the differences between <span class="notLocalizable">Windows 8</span> and <span class="notLocalizable">Windows RT</span>.
+                    </p></div></div></div>
+            </div></div></td><td class="tablePadding"></td><td class="grid grid-mid"><div class="section sectionNormal"><div class="">
+              
+              <div class="iList"><div class="iListHeading"><h2 class="headingBase headingS"><a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/how-to-download">
+                    How to download
+                  </a></h2></div><div class="iListDesc"><div class="amlTextDesc"><p class="para">
+                      See how to upgrade your current PC to <span class="notLocalizable">Windows 8</span>. 
+                    </p></div></div></div>
+            </div></div></td><td class="tablePadding"></td><td class="grid grid-last"><div class="section sectionNormal lastElement"><div class="">
+              
+              <div class="iList"><div class="iListHeading"><h2 class="headingBase headingS"><a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/tablets-computers?ocid=GA8_O_WOL_SM_Meet_PC_Null">
+                    Find your next PC
+                  </a></h2></div><div class="iListDesc"><div class="amlTextDesc"><p class="para lastElement">Explore a new generation of tablets and computers.</p></div></div></div>
+            </div></div></td></tr></tbody></table></div>
+
+      </div>
+
+  
+</div></div>
+        </div>
+    
+		</div>
+	</div>
+</div>
+
+
+                </form>
+            
+        </div>
+
+        
+        <div id="BodyContentBottomSpaceOuter" class="regionOuter sectionTop ">
+	<div id="BodyContentBottomSpaceMid" class="regionMid ">
+		<div id="BodyContentBottomSpace" class="region regionGroup ">
+			
+        
+		</div>
+	</div>
+</div>
+
+        
+        <div id="SocialRegionOuter" class="regionOuter socialRegion ">
+	<div id="SocialRegionMid" class="regionMid ">
+		<div id="SocialRegion" class="region regionGroup ">
+			
+            <div id="SC_01" class="ctnPresenceHold containerOneFourthNear">
+                <div class="socialComp" MS.ExId="Social.FacebookLike"><div class="socialCompTitle">Like us on Facebook</div><div class="socialCompCaption">Stay in touch with Windows.</div><div class="socialCompAction"><div class="scFbLikeContainer"><iframe class="scFbLikeFrame" scrolling="no" frameborder="0" allowTransparency="true" src="//web.archive.org/web/20130108054541/http://www.facebook.com/plugins/like.php?href=http%3a%2f%2fwww.facebook.com%2fwindows&amp;locale=en_US&amp;width=227&amp;show_faces=false&amp;send=false&amp;layout=button_count&amp;action=like&amp;colorscheme=light&amp;font=segoe+ui" style="width:227px;"></iframe></div></div></div>
+            </div>
+            <div id="SC_02" class="containerOneHalfCenter">
+                <div class="socialComp" MS.ExId="Social.Share"><div class="socialCompTitle">Share this page</div><div class="socialCompCaption">Get the word out. Share this page with your friends and family.</div><div class="socialCompAction"><div class="scShareBoxRow"><div class="scShareBox"><a class="scShareLink" onclick="Wol.Social.SharePage(this)" href="javascript:void(0);" data-disabledefaultlogging="true" data-actionEndpointUrl="//web.archive.org/web/20130108054541/http://www.facebook.com/sharer.php" data-shareTargetId="share6A3B5886" data-pageUrlParameterName="u" data-windowOptions="toolbar=no,menubar=no,resizable=no,scrollbars=no,width=657,height=436"><span class="scShareContainer"><span class="scShareImgSetContainer clip34x34"><img class="scShareImg scShareRestImg socFbRest" src="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/Resources/3.6/WOL/shared/images/merged/gl_social.png" alt="Facebook" title="Facebook" /><img class="scShareImg scShareHovImg socFbHover" src="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/Resources/3.6/WOL/shared/images/merged/gl_social.png" alt="Facebook" title="Facebook" /></span><span class="scShareText">Facebook</span></span></a></div><div class="scShareBox"><a class="scShareLink" onclick="Wol.Social.SharePage(this)" href="javascript:void(0);" data-disabledefaultlogging="true" data-actionEndpointUrl="https://web.archive.org/web/20130108054541/https://twitter.com/share" data-shareTargetId="shareFFF38C8D" data-pageUrlParameterName="url" data-windowOptions="toolbar=no,menubar=no,resizable=no,scrollbars=no,width=550,height=420"><span class="scShareContainer"><span class="scShareImgSetContainer clip34x34"><img class="scShareImg scShareRestImg socTwtRest" src="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/Resources/3.6/WOL/shared/images/merged/gl_social.png" alt="Twitter" title="Twitter" /><img class="scShareImg scShareHovImg socTwtHover" src="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/Resources/3.6/WOL/shared/images/merged/gl_social.png" alt="Twitter" title="Twitter" /></span><span class="scShareText">Twitter</span></span></a></div></div></div></div>
+            </div>
+            <div id="SC_03" class="ctnPresenceHold containerOneFourthFar">
+                <div MS.ExId="feedback" class="socialComp" id="feedbackRoot">
+	
+
+
+<div class="socRatingPnl">
+    <div class="socialCompTitle">
+        Was this page helpful&#63;
+    </div>
+    <div class="socialCompCaption">
+        Your feedback helps improve this site.
+    </div>
+    <div class="socialCompAction">
+        <button id="socRatingYesBtn" disabled="disabled" class="accentBackground accentBackgroundHover accentForeground accentForegroundHover socRatingButton">Yes</button>
+        <button id="socRatingSomewhatBtn" disabled="disabled" class="accentBackground accentBackgroundHover accentForeground accentForegroundHover socRatingButton">Somewhat</button>
+        <button id="socRatingNoBtn" disabled="disabled" class="accentBackground accentBackgroundHover accentForeground accentForegroundHover socRatingButton">No</button>
+    </div>
+</div>
+
+<div class="socCommentPnl">
+    <div id="socCommentTitle" class="socialCompTitle">
+        Any other feedback&#63;
+    </div>
+    <div class="socialCompCaption">
+        <textarea id="socCommentVerboseText" 
+            class="socCommentVerboseText" rows="2"></textarea>
+    </div>
+    <div class="socialCompAction">
+        <button id="socCommentYesBtn" class="accentBackground accentBackgroundHover accentForeground accentForegroundHover socCommentButton">Submit</button>
+        <button id="socCommentNoBtn" class="accentBackground accentBackgroundHover accentForeground accentForegroundHover socCommentButton">No thanks</button>
+    </div>
+</div>
+
+<div class="socThankPnl">
+    <div class="socialCompTitle">
+        Thank you
+    </div>
+    <div class="socialCompCaption">
+        We appreciate your feedback.
+    </div>
+    <div class="socialCompAction">
+        &nbsp;
+    </div>
+</div>
+
+<div style="display: none">
+    <span id="socCommentMaxEncodedSize">1200</span> 
+    <span id="socCommentMaxSize">400</span>
+    <span id="socCommentNoPrompt">How can we improve it&#63;</span>
+    <span id="socCommentNoYesString">Submit</span>
+    <span id="socCommentNoNoString">Skip this</span>
+    <span id="socCommentSomewhatPrompt">How can we improve it&#63;</span>
+    <span id="socCommentSomewhatYesString">Submit</span>
+    <span id="socCommentSomewhatNoString">No thanks</span>
+</div>
+
+</div>
+            </div>
+        
+		</div>
+	</div>
+</div>
+
+        
+        <div id="BigFooterRegionOuter" class="regionOuter accentBorder FooterBigRegion ">
+	<div id="BigFooterRegionMid" class="regionMid ">
+		<div id="BigFooterRegion" class="region regionGroup ">
+			
+            <div id="bodyBigFooter">
+                <div class="contentContainer" MS.ExId="render" MS.CId="838661" MS.CVer="213"><script type="text/javascript">
+      //<![CDATA[
+      link_expandAllText = 'Show all';
+      link_collapseAllText = 'Hide all';
+      //]]></script><div class="topic_body_full contentPiece">
+
+
+
+    
+
+      <div class="defaultTableBlock"><table class="section_section-grid-4col-near grid-near lastElement" summary=""><tbody><tr><td class="grid grid-first"><div class="section sectionNormal"><h2 class="title_section">
+              Visit our friends
+            </h2><div class="">
+            
+            
+              <div class="section sectionNormal"><div class="">
+                
+                <table class="thumbSet"><tr class=""><td colspan="2"><a href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/p/?LinkID=258852" title=""><img class="blkImg accentColorHover" src="https://web.archive.org/web/20130108054541/http://res1.windows.microsoft.com/resbox/en/Windows/main/f5dd4d36-924f-4050-97df-68698c9b891b_30.png" alt="&#xD;&#xA;                        Office" /></a></td></tr><tr class=""><td colspan="2"><a href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/p/?LinkID=200036" title=""><img class="blkImg accentColorHover" src="https://web.archive.org/web/20130108054541/http://res1.windows.microsoft.com/resbox/en/Windows/main/c9db4e3b-4da4-42df-aff6-111f00410452_23.png" alt="&#xD;&#xA;                        Xbox&#xD;&#xA;                      " /></a></td></tr><tr class=""><td colspan="2"><a href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/p/?LinkID=258854" title=""><img class="blkImg accentColorHover" src="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/resbox/en/Windows/main/a8e3b08a-032b-489a-910b-48fd249bb79d_14.png" alt="&#xD;&#xA;                        Skype&#xD;&#xA;                      " /></a></td></tr><tr class=""><td colspan="2"><a href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/p/?LinkID=198372" title=""><img class="blkImg accentColorHover" src="https://web.archive.org/web/20130108054541/http://res1.windows.microsoft.com/resbox/en/Windows/main/b2bc371c-561c-43bb-b6f1-20b128f039c1_18.png" alt="&#xD;&#xA;                        Windows Phone" /></a></td></tr><tr class=""><td colspan="2"><a href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/p/?LinkID=253561" title=""><img class="blkImg accentColorHover" src="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/resbox/en/Windows/main/f6e481d8-9229-41c4-8112-99db8b6b4364_15.png" alt="&#xD;&#xA;                        Bing&#xD;&#xA;                      " /></a></td></tr></table>
+              </div></div>
+            
+          </div></div></td><td class="tablePadding"></td><td class="grid grid-mid"><div class="section sectionNormal"><div class="">
+            
+            
+
+              <div class="section_section-product"><h2 class="title_section">
+                  Info for
+                </h2><ul><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/p/?LinkId=158360" class="navigationLink" data-id="ID0EBBJBDBFBBBBA">
+                          Developers
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/p/?LinkId=258848" class="navigationLink" data-id="ID0EBBHBDBFBBBBA">
+                          Designers
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/p/?LinkId=158357" class="navigationLink" data-id="ID0EBBFBDBFBBBBA">
+                          Small business
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/p/?LinkId=158356" class="navigationLink" data-id="ID0EBBDBDBFBBBBA">
+                          Enterprise
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/p/?LinkId=178281" class="navigationLink" data-id="ID0EBBBBDBFBBBBA">
+                          Students
+                        </a>
+                    </li></ul></div>
+
+              <div class="section_section-product"><h2 class="title_section">
+                  Popular downloads
+                </h2><ul><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/downloads" class="navigationLink" data-id="ID0EBBRBBBFBBBBA">
+                          <span class="notLocalizable">Windows</span> downloads
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/themes" class="navigationLink" data-id="ID0EBBPBBBFBBBBA">
+                          <span class="notLocalizable">Windows</span> themes
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/wallpaper" class="navigationLink" data-id="ID0EBBNBBBFBBBBA">
+                          Wallpapers
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/security-essentials-download" class="navigationLink" data-id="ID0EBBLBBBFBBBBA">
+                          Free antivirus
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-live/photo-gallery-get-started" class="navigationLink" data-id="ID0EBBJBBBFBBBBA">
+                          Photo Gallery
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-live/movie-maker-get-started" class="navigationLink" data-id="ID0EBBHBBBFBBBBA">
+                          Movie Maker
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/language-packs" class="navigationLink" data-id="ID0EBBFBBBFBBBBA">
+                          Language packs
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/service-packs-download" class="navigationLink" data-id="ID0EBBDBBBFBBBBA">
+                          <span class="notLocalizable">Windows</span> service packs
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/p/?LinkID=265803" class="navigationLink" data-id="ID0EBBBBBBFBBBBA">
+                          <span class="notLocalizable">Windows</span> Product Guide
+                        </a>
+                    </li></ul></div>
+            
+          </div></div></td><td class="tablePadding"></td><td class="grid grid-mid"><div class="section sectionNormal"><div class="">
+            
+            
+
+              <div class="section_section-product"><h2 class="title_section">
+                  Products
+                </h2><ul><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/meet" class="navigationLink" data-id="ID0EBBVBDBDBBBBA">
+                          <span class="notLocalizable">Windows 8</span>
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/rt-welcome" class="navigationLink" data-id="ID0EBBTBDBDBBBBA">
+                          <span class="notLocalizable">Windows RT</span>
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/internet-explorer/download-ie" class="navigationLink" data-id="ID0EBBRBDBDBBBBA">
+                          <span class="notLocalizable">Internet Explorer</span>
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/skydrive/download" class="navigationLink" data-id="ID0EBBPBDBDBBBBA">
+                          <span class="notLocalizable">SkyDrive</span>
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/outlook" class="navigationLink" data-id="ID0EBBNBDBDBBBBA">
+                          <span class="notLocalizable">Outlook.com</span> 
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows7/get-know-windows-7" class="navigationLink" data-id="ID0EBBLBDBDBBBBA">
+                          <span class="notLocalizable">Windows 7</span>
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/windows-help#v1h=win8tab1&amp;v2h=win7tab1&amp;v3h=winvistatab1&amp;v4h=winxptab1&amp;windows=windows-vista" class="navigationLink" data-id="ID0EBBJBDBDBBBBA">
+                          <span class="notLocalizable">Windows Vista</span>
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/windows-help#v1h=win8tab1&amp;v2h=win7tab1&amp;v3h=winvistatab1&amp;v4h=winxptab1&amp;windows=windows-xp" class="navigationLink" data-id="ID0EBBHBDBDBBBBA">
+                          <span class="notLocalizable">Windows XP</span>
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/hotmail/home" class="navigationLink" data-id="ID0EBBFBDBDBBBBA">
+                          <span class="notLocalizable">Hotmail</span>
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/messenger/home" class="navigationLink" data-id="ID0EBBDBDBDBBBBA">
+                          <span class="notLocalizable">Messenger</span>
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/security-essentials-download" class="navigationLink" data-id="ID0EBBBBDBDBBBBA">
+                          <span class="notLocalizable">Microsoft Security Essentials</span>
+                        </a>
+                    </li></ul></div>
+
+              <div class="section_section-product"><h2 class="title_section">
+                  Keep in touch
+                </h2><ul><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/p/?LinkId=262082" class="navigationLink" data-id="ID0EBBDBBBDBBBBA">
+                          The <span class="notLocalizable">Windows </span>Blog 
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/newsletter-signup" class="navigationLink" data-id="ID0EBBBBBBDBBBBA">
+                          <span class="notLocalizable">Windows </span>newsletter
+                        </a>
+                    </li></ul></div>
+
+
+            
+          </div></div></td><td class="tablePadding"></td><td class="grid grid-last"><div class="section sectionNormal lastElement"><div class="">
+            
+            
+
+              <div class="section_section-product"><h2 class="title_section">
+                  Frequent searches
+                </h2><ul><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/buy" class="navigationLink" data-id="ID0EBBRBDBBBBBBA">
+                          Upgrade <span class="notLocalizable">Windows</span>
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/microsoft-account" class="navigationLink" data-id="ID0EBBPBDBBBBBBA">
+                          <span class="notLocalizable">Microsoft</span> account
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/start-screen" class="navigationLink" data-id="ID0EBBNBDBBBBBBA">
+                          Start screen
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/touch-swipe-tap-beyond" class="navigationLink" data-id="ID0EBBLBDBBBBBBA">
+                          <span class="notLocalizable">Windows</span> touch
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/explore-windows-store" class="navigationLink" data-id="ID0EBBJBDBBBBBBA">
+                          <span class="notLocalizable">Windows</span> Store
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/skydrive/download" class="navigationLink" data-id="ID0EBBHBDBBBBBBA">
+                          Online storage
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/internet-explorer" class="navigationLink" data-id="ID0EBBFBDBBBBBBA">
+                          <span class="notLocalizable">Internet Explorer 10</span>
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/system-requirements" class="navigationLink" data-id="ID0EBBDBDBBBBBBA">
+                          <span class="notLocalizable">Windows 8</span> system requirements
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows-8/windows-defender" class="navigationLink" data-id="ID0EBBBBDBBBBBBA">
+                          <span class="notLocalizable">Windows Defender</span>
+                        </a>
+                    </li></ul></div>
+
+            
+
+              <div class="section_section-product"><h2 class="title_section">
+                  Support
+                </h2><ul><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/support#SupportCategories" class="navigationLink" data-id="ID0EBBHBBBBBBBBA">
+                          Browse support by category
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/support#SupportProducts" class="navigationLink" data-id="ID0EBBFBBBBBBBBA">
+                          Browse support by product
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/contact-support" class="navigationLink" data-id="ID0EBBDBBBBBBBBA">
+                          Contact support
+                        </a>
+                    </li><li class="linklist">
+                      <a href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/p/?LinkID=162717" class="navigationLink" data-id="ID0EBBBBBBBBBBBA">
+                          <span class="notLocalizable">Microsoft Community</span>
+                        </a>
+                    </li></ul></div>
+            
+          </div></div></td></tr></tbody></table></div>
+    
+
+  
+</div></div>
+            </div>
+        
+		</div>
+	</div>
+</div>
+
+        <div id="FooterControlRegionOuter" class="regionOuter FooterControlRegion ">
+	<div id="FooterControlRegionMid" class="regionMid ">
+		<div id="FooterControlRegion" class="region regionGroup ">
+			
+            <div id="bodyFooter">
+                <div MS.ExId="footer" id="Footer" logginginteractiontypeid="4">
+	<div id="FooterNear">
+		<span id="FooterFlavorText">Hello from Seattle.</span><div id="FooterLocaleChooser">
+			<a id="FooterLocaleChooserID" href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/worldwide"><span class="FooterLocaleChooserContainer"><span class="FooterLocaleChooserCurrentLocale">United States of America</span><span class="FooterLocaleChooserIconContainer"><span class="FooterLocaleChooserIconInnerContainer clip24x24"><img class="accentBackground accentContainerBackgroundHover accentContainerBackgroundFocus" src="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/Resources/3.6/WOL/shared/images/merged/gl_site.png" draggable="false" /></span></span></span></a>
+		</div>
+	</div><div id="FooterFar">
+		<a id="MsComLogo_href" title="" href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/p/?linkid=182163"><img alt="" width="85" height="14" src="https://web.archive.org/web/20130108054541/http://res1.windows.microsoft.com/resbox/en/Windows/Main/4300ae64-546c-4bbe-9026-6779b3684fb8_18.png" /></a><div>
+			<span id="FooterCopyright">&#169; 2013 Microsoft</span>
+		</div>
+	</div><div id="FooterText">
+		<span id="FooterLinks"><span id="Footer_disclaimer"><a id="Footer_disclaimer_href" href="https://web.archive.org/web/20130108054541/http://windows.microsoft.com/en-US/windows/disclaimers">Disclaimers</a></span><span id="Footer_termsOfUse"><a id="Footer_termsOfUse_href" href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/?linkid=123158">Terms of Use</a></span><span id="Footer_trademarks"><a id="Footer_trademarks_href" href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/?linkid=123159">Trademarks</a></span><span id="Footer_privacyStatement"><a id="Footer_privacyStatement_href" href="https://web.archive.org/web/20130108054541/http://go.microsoft.com/fwlink/?linkid=123161">Privacy &#38; Cookies</a></span></span>
+	</div>
+</div>
+            </div>
+        
+		</div>
+	</div>
+</div>
+
+        
+        <script type='text/javascript'>
+//<![CDATA[
+var PageData={
+  TopLevelAssetSystemId:898539};
+//]]>
+</script><script type='text/javascript'>
+//<![CDATA[
+ if (typeof(Wol) != 'undefined' && typeof(Wol.ContentInstrumentation) != 'undefined' && typeof(Wol.ContentInstrumentation.Logging) != 'undefined') { var logness = Wol.ContentInstrumentation.Logging; try { logness.SetEnvironment('c.microsoft.com', false); logness.SetTagConfig('MS', 'RequestID', ['ExId','PId','PVer','CId','CVer','RIO.UACode']); logness.SetClientConfig('ClientBiSettings.Wol.js'); logness.Init(); } catch (error) { logness._logError(error); } } //]]>
+</script><noscript><img alt='' width='0' height='0' style='margin:0;padding:0' src='https://web.archive.org/web/20130108054541/http://c.microsoft.com/trans_pixel.asp?MS.js=No' /></noscript><script type='text/javascript'>
+//<![CDATA[
+ if (typeof(Wol) != 'undefined' && typeof(Wol.ContentInstrumentation) != 'undefined' && typeof(Wol.ContentInstrumentation.Logging) != 'undefined' && typeof(Wol.ContentInstrumentation.Logging.Rio) != 'undefined' && typeof(Wol.ContentInstrumentation.Logging.Rio.InitRIO) === 'function') { Wol.ContentInstrumentation.Logging.Rio.InitRIO('www.microsoft.com/click/services', 'MS', 'RIO.GCell', 'RIO.Page.UACode', 'RIO.UACode', 'RIO.EACode'); } //]]>
+</script><script type='text/javascript'>
+//<![CDATA[
+WolLoggingVars._isEnabled=true;try{var s=Wol.Logging.Internal.createOMLogger('MSWindowsWolGlobal,MSWindowsWolenUS,WindowsStore');s.linkDownloadFileTypes='exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls,docx';s.linkInternalFilters='javascript:,microsoft.com';s.linkLeaveQueryString=true;s.usePlugins=false;s.linkTrackVars='';s.linkTrackEvents='None';s.dc='112';WolLoggingVars._requiredLoggerTemplate=new Wol.Logging.LoggerTemplate();
+WolLoggingVars._requiredLoggerTemplate.set_omLogger(s);
+WolLoggingVars._requiredLoggerTemplate.setScalar('referrer','');WolLoggingVars._requiredLoggerTemplate.setScalar('prop30',898539);WolLoggingVars._commonLoggerTemplate=new Wol.Logging.LoggerTemplate(WolLoggingVars._requiredLoggerTemplate);
+WolLoggingVars._commonLoggerTemplate.setScalar('referrer',document.referrer?document.referrer.substr(0,255):'');WolLoggingVars._commonLoggerTemplate.setScalar('prop14','WOL');WolLoggingVars._commonLoggerTemplate.setScalar('prop13',1);WolLoggingVars._commonLoggerTemplate.setScalar('prop2','en-US');WolLoggingVars._commonLoggerTemplate.setScalar('pageName','en-US/Windows 8/2012-Win8GA/meet');WolLoggingVars._commonLoggerTemplate.setScalar('channel','Other');if (typeof (Ms) != 'undefined' && typeof (Ms.Wol) != 'undefined' && typeof (Ms.Wol.Sku) != 'undefined' && typeof (Ms.Wol.Sku.Id) == 'number'){WolLoggingVars._commonLoggerTemplate.setScalar('prop15', Ms.Wol.Sku.Id);}WolLoggingVars._commonLoggerTemplate.setScalar('prop3','Windows 8 and Windows RT');WolLoggingVars._commonLoggerTemplate.setScalar('prop28','349337');var pageloadLogger=new Wol.Logging.Logger(WolLoggingVars._commonLoggerTemplate,Wol.Logging.LogTypeEnum.PageLoad);pageloadLogger.setScalar('prop13',1);pageloadLogger.log();Wol.Logging.Internal.enableClickThroughLogging();WolLoggingVars._isLoggerReady=true;
+Wol.Logging.loggerReadyEvent().raiseEvent();}catch(error){
+if (!WolLoggingVars._shouldIgnoreError) {
+    throw error;
+}
+}//]]>
+</script><noscript>
+    <img alt="" style="border:none;" id="IMG1" width="1" height="1" src="https://web.archive.org/web/20130108054541/http://m.webtrends.com/dcsaukzid100008i3dphd1nqy_6p8b/njs.gif?dcsuri=/nojavascript&amp;WT.js=No" />
+</noscript>
+
+    </div>
+    <div id="subVis">
+        
+        
+        <img id="MSCOMImage" src="https://web.archive.org/web/20130108054541/http://res2.windows.microsoft.com/resources/3.6/WOL/shared/images/c.gif" width="1" height="1" alt="" />
+        
+        
+        <div id="atdmt" style="display:none">
+<script src="https://web.archive.org/web/20130108054541/http://view.atdmt.com/jaction/FY13_Win8_MeetWin8_HP_PLPE" type="text/javascript"></script>
+<noscript>
+<iframe src="https://web.archive.org/web/20130108054541/http://view.atdmt.com/iaction/FY13_Win8_MeetWin8_HP_PLPE" width="0" height="0" style="margin:0; border:none;"></iframe>
+</noscript>
+</div>
+
+        
+
+        
+        
+    </div>
+    
+</body>
+</html>
+
+}
+<!--
+     FILE ARCHIVED ON 05:45:41 Jan 08, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:35:24 Jan 26, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 1.445
+  exclusion.robots: 0.018
+  exclusion.robots.policy: 0.008
+  esindex: 0.011
+  cdx.remote: 23.966
+  LoadShardBlock: 181.422 (6)
+  PetaboxLoader3.datanode: 163.18 (7)
+  load_resource: 80.577
+  PetaboxLoader3.resolve: 64.23
+-->
