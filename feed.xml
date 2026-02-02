@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Sneaky's News Post</title>
+    <link>http://st5sneaky.xyz</link>
+    <description>An RSS feed where I keep YOU, yes you, updated on projects like CODENAME SUNDOWNER and more.</description>
+    <item>
+      <title>Hello, and welcome!</title>
+      <link>http://st5sneaky.xyz</link>
+      <description>Welcome to the first of many posts on this RSS feed. It's an interesting thing, yeah, I know, but hey. It's still pretty cool! So..yeah, have fun.</description>
+    </item>
+  </channel>
+</rss>
