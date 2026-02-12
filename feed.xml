@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
   <channel>
-    <atom:link href="https:/st5sneaky.xyz/feed.xml" rel="self" type="application/rss+xml" />
     <title>Sneaky's News Post</title>
     <link>http://st5sneaky.xyz</link>
     <description>An RSS feed where I keep YOU, yes you, updated on projects like CODENAME SUNDOWNER and more.</description>
